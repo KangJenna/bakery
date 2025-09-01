@@ -1,0 +1,43 @@
+{
+    "name": "Toscana Bakery",
+    "short_name": "Toscana Bakery",
+    "description": "Cultura  sabor en un solo lugar    ",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#2F2F33",
+    "theme_color": "#F5B027",
+    "icons": [
+        {
+            "src": "icn/icon01.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+
+        {
+            "src": "icn/icon02.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "screenshots": [
+    {
+     "src": "screenshots/ss01.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Wonder Widgets"
+    },
+    {
+     "src": "screenshots/ss02.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Wonder Widgets"
+    }
+    
+],
+"lang": "es-MX",
+"orientation": "natural"
+
+
+}
